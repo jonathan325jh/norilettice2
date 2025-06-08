@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.produtos.html{
+    font-family: "Playfair Display", serif;
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+}
+
+ h1{
+    font-family: "Playfair Display", serif;
+    margin: 50px 30px;
+    font-size: 70px;
+    color: black;
+    background-color: white;
+    
+}
+
+hr{
+    width: 77%;
+    background-color: black;
+    margin-top: -23px;
+    margin-left: 265px;
+    padding-top: 5px;
+}
+
+.bordas-produtos {
+    padding-bottom: 10px;
+    padding-top: 20px;
+    display: flex;
+    gap: 160px;
+    justify-content: space-around;
+    justify-content: center;
+
+}
+.retangulo-produtos {
+    border-radius: 20px;
+    width: 260px;
+    height: 290px;
+    border: 3px solid black;
+  
+}
+
+.sushis{
+    margin-top: 400px;
+}
