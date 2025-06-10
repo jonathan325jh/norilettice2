@@ -40,6 +40,7 @@ hr{
 
 }
 .retangulo{
+    cursor: pointer;
     border-radius: 20px;
     width: 260px;
     height: 290px;
@@ -53,5 +54,37 @@ hr{
     margin-top: 200px;
 }
 
+#molho-soja{
+    width: 160px;
+    margin: 10px 50px;
+}
+
+#molho-climao{
+    width: 155px;
+    margin: 10px 50px;
+}
+
+#teriyaki{
+    width: 145px;
+    margin: 10px 50px;
+}
+
+#tare{
+    width: 140px;
+    margin: 10px 50px;
+}
+
+.retangulo:hover{
+    transform: scale(1.1);
+    
+}
+
+.retangulo:active{
+    border-color: red;
+}
    
+#sushi-ovo{
+    width: 200px;
+    margin: 5px 30px;
+}
     

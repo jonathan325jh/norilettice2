@@ -38,7 +38,7 @@ header {
 
 
 .links{
-    gap: 140px;
+    gap: 90px;
     text-align: left;
     display: flex;
     background: #545454;
@@ -130,3 +130,44 @@ a:hover{
     width: 220px;
     margin: 20px 0;
 }
+
+#sashimi-salmao{
+    width: 200px;
+    margin: 0 10px;
+}
+
+#hot-roll{
+    width: 220px;
+    height: 32vh;
+    margin: 20px 5px;
+}
+
+#guioza{
+    width: 200px;
+    margin: 20px 10px;
+}
+
+#temaki-salmao{
+    width: 220px;
+    margin: 30px 5px;
+}
+
+#joe-joe{
+    width: 200px;
+    margin: 5px 15px;
+}
+
+#uramaki{
+    width: 220px;
+    margin: 35px 5px;
+}
+
+.retangulo:hover{
+    transform: scale(1.1);
+    
+}
+
+.retangulo:active{
+    border-color: red;
+}
+
