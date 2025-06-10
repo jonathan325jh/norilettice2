@@ -91,10 +91,14 @@ a:hover{
 }
 
 #titulo{
+    gap: 90px;
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
     font-family: "Playfair Display", serif;
     text-align: center;
     margin: 70px 760px;
-    font-size: 40px;
+    font-size: 70px;
     color: black;
 }
 
