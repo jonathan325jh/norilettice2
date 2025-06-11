@@ -1,0 +1,51 @@
+.contatos{
+    margin: 50px;
+    
+}
+
+#titulo-contatos{
+    font-size: 35px;
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
+
+iframe{
+    border-radius: 15px;
+    margin: 15px 230px;
+}
+
+#titulo-redes{
+    font-size: 35px;
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+
+.midias{
+    margin: 30px;
+    padding-left: 250px;
+}
+
+input{
+
+    width: 27%;
+    padding: 8px;
+    margin-top: 15px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+
+}
+.enviar-ista{
+
+    background: linear-gradient(rgb(245, 245, 88), orange, red);
+    color: white;
+    padding: 10px;
+
+}
+
