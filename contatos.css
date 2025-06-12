@@ -6,3 +6,42 @@
     color: black;
     background-color: white;
 }
+
+.midias{
+    margin-left: 400px;
+    margin: 30px;
+    padding-left: 250px;
+}
+
+input{
+    margin-left: 30px;
+    padding-left: -40px;
+    width: 19%;
+    padding: 8px;
+    margin-top: 15px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+
+}
+.enviar-insta{
+
+    background: linear-gradient(45deg,#feda75,#fa7e1e,  #d62976, #962fbf, #4f5bd5 );
+    color: white;
+    padding: 10px;
+
+}
+
+.enviar-insta img{
+    width: 100px;
+}
+
+.enviar-tiktok{
+    background-color: black;
+    color: white;
+}
+
+.enviar-whats{
+    background: linear-gradient(45deg, #25D366, #128C7E);
+}
+
+

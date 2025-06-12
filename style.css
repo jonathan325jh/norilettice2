@@ -9,7 +9,7 @@ body {
 
 header {
     background: black;
-    padding: 10px 750px 150px; 
+    padding: 9px 700px 140px; 
     display: flex;
     flex-direction: column; 
     align-items: center;
@@ -22,7 +22,7 @@ header {
 }
 
 .itens-cabeca{
-    padding-left: 1300px;
+    padding-left: 1000px;
     margin-top: -170px;
     display: inline-flex;
 }

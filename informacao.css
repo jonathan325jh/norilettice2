@@ -27,39 +27,24 @@ iframe{
     background-color: white;
 }
 
-.midias{
-    margin-left: 400px;
-    margin: 30px;
-    padding-left: 250px;
+
+header {
+    background: black;
+    padding: 9px 700px 144px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
 }
 
-input{
-    margin-left: 30px;
-    padding-left: -40px;
-    width: 19%;
-    padding: 8px;
-    margin-top: 15px;
-    border: 1px solid #ccc;
-    border-radius: 15px;
-
-}
-.enviar-insta{
-
-    background: linear-gradient(45deg,#feda75,#fa7e1e,  #d62976, #962fbf, #4f5bd5 );
-    color: white;
-    padding: 10px;
-
+.itens-cabeca{
+    padding-left: 1180px;
+    margin-top: -170px;
+    display: inline-flex;
 }
 
-.enviar-insta img{
-    width: 100px;
-}
-
-.enviar-tiktok{
-    background-color: black;
-    color: white;
-}
-
-.enviar-whats{
-    background: linear-gradient(45deg, #25D366, #128C7E);
+.itens-cabeca img {
+    width: 40px; 
+    height: auto;
+    float: right;
+    cursor: pointer;
 }
