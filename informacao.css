@@ -13,6 +13,8 @@
 p{
     text-align: center;
     font-size: 20px;
+    margin-top: 40px;
+    justify-content: flex-start;
 }
 
 iframe{
@@ -47,4 +49,28 @@ header {
     height: auto;
     float: right;
     cursor: pointer;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #FF0000;
+}
+
+img{
+    width: 30%;
 }
