@@ -55,22 +55,12 @@ header {
 	padding-left: 20px;
 }
 
-.titulo-centralizado {
-	text-align: center
-}
-
 p {
 	text-align: center;
 }
 
-#missao {
-	font-size: 20px
-}
-
-em strong {
-	color: #FF0000;
-}
-
 img{
+    margin: 70px 0;
     width: 30%;
+    border-radius: 20px;
 }
